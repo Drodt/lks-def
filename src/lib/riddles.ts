@@ -9,7 +9,7 @@ export const RIDDLES: SymRiddle[] = [
 	{ word: 'Dependent Assertions', hint: 'Research', german: false },
 	{ word: 'Signalstoerung', hint: 'Common Issue', german: true },
 	{ word: 'Grape juice', hint: 'Food and Drink', german: false },
-	{ word: 'Non-determinism', hint: 'Research', german: false },
+	{ word: 'Non-deterministic', hint: 'Research', german: false },
 	{ word: 'Orchestra', hint: 'Hobby', german: false },
 	{ word: 'Program Instrumentation', hint: 'Research', german: false },
 	{ word: 'Control-Flow Tracing', hint: 'Research', german: false }
